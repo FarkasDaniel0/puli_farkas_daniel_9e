@@ -1,0 +1,58 @@
+body{
+    background-color: #36BC5F;
+}
+h2{
+    text-align: center;
+}
+h1{
+    color: yellow;
+}
+.table_1{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.td_1{
+    background-color: yellow;
+    width: 100px;
+    height: 200px;
+}
+.td_2{
+   background-color: #36BC5F ;
+    ;
+width: 400px;
+}
+.img_1{
+    height: 200px;
+    padding-left: 270px;
+}
+.p_1{
+    color: white;
+    size: 50px;
+}
+.td_3{
+    padding-left: 100px;
+}
+.img_2{
+    margin-bottom: 500px;
+}
+.puli_adatok{
+    color: black;
+    
+}
+.img_3{
+    height: 400px;
+}
+.tr_1{
+    background-color: yellow;
+    width: 500px;
+}
+hr{
+    color: yellow;
+}
+ul{
+    color: black;
+}
+.img_4{
+    
+    height: 200px;
+}
