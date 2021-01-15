@@ -23,7 +23,7 @@ width: 400px;
 }
 .img_1{
     height: 200px;
-    padding-left: 270px;
+    
 }
 .p_1{
     color: white;
@@ -56,4 +56,8 @@ ul{
 .img_4{
     
     height: 200px;
+}
+a{
+    text-decoration: none;
+    
 }
