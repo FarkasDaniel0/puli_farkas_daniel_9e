@@ -47,7 +47,8 @@ width: 400px;
     width: 500px;
 }
 hr{
-    color: yellow;
+    
+    border:  2px solid yellow ;
 }
 ul{
     color: black;
